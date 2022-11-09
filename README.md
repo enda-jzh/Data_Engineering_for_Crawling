@@ -4,7 +4,7 @@ The crawling function for data engineering project<br />
 爬取涉及的网站: <br />
 en：<br />
 https://www.unesco.org；<br /> 
-ttps://www.who.int； <br />
+https://www.who.int； <br />
 https://www.iea.org； <br />
 https://mashable.com； <br />
 https://www.finweb.com； <br />
